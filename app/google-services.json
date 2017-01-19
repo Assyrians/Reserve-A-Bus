@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "856494149239",
+    "firebase_url": "https://reserve-a-bus.firebaseio.com",
+    "project_id": "reserve-a-bus",
+    "storage_bucket": "reserve-a-bus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856494149239:android:8ce8cb10dde80d06",
+        "android_client_info": {
+          "package_name": "com.nihal.reserveabus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856494149239-nd4rd8gev1seuod9ptgs3qmv3vvlabbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-GlKmZqKWvxd0yV3b3mKFlO6GpyEKH7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
