@@ -26,7 +26,6 @@ public class StationsAdapter extends RecyclerView.Adapter<StationsAdapter.MyView
         public MyViewHolder(View view) {
             super(view);
             stationName = (TextView) view.findViewById(R.id.stationName);
-            journeysNumber = (TextView) view.findViewById(R.id.journeysNumber);
         }
 
         public void bind(final Station station, final OnItemClickListener listener) {
@@ -58,7 +57,6 @@ public class StationsAdapter extends RecyclerView.Adapter<StationsAdapter.MyView
         Station station = stationsList.get(position);
         holder.bind(stationsList.get(position), listener);
         holder.stationName.setText(station.getStationName());
-        holder.journeysNumber.setText(station.getJourneysNumber());
     }
 
     @Override
