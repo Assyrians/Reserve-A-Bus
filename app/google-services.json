@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "856494149239",
-    "firebase_url": "https://reserve-a-bus.firebaseio.com",
-    "project_id": "reserve-a-bus",
-    "storage_bucket": "reserve-a-bus.appspot.com"
+    "project_number": "906544199693",
+    "firebase_url": "https://reserve-a-bus-4e592.firebaseio.com",
+    "project_id": "reserve-a-bus-4e592",
+    "storage_bucket": "reserve-a-bus-4e592.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:856494149239:android:8ce8cb10dde80d06",
+        "mobilesdk_app_id": "1:906544199693:android:8ce8cb10dde80d06",
         "android_client_info": {
           "package_name": "com.nihal.reserveabus"
         }
       },
       "oauth_client": [
         {
-          "client_id": "856494149239-nd4rd8gev1seuod9ptgs3qmv3vvlabbn.apps.googleusercontent.com",
+          "client_id": "906544199693-ndjem4u48q124utggjqr8k3atl1d3kp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nihal.reserveabus",
+            "certificate_hash": "9F7B965CFBCE43D060AF8EF96C84ABA2749358B6"
+          }
+        },
+        {
+          "client_id": "906544199693-86rmsejc4i3ikfjbfpr40j1895dkiinf.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD-GlKmZqKWvxd0yV3b3mKFlO6GpyEKH7c"
+          "current_key": "AIzaSyAw34DLcUkdGhUeyR-nn1J0-Ohjp6OjMao"
         }
       ],
       "services": {
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906544199693-86rmsejc4i3ikfjbfpr40j1895dkiinf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
